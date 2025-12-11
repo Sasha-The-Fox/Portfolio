@@ -1,0 +1,11 @@
+
+body { font-family: Arial, sans-serif; margin:0; background:#ffe4f1; }
+header { background: linear-gradient(to right, #ff4fa8, #ff77c4); color:white; padding:50px 20px; text-align:center; }
+nav { background:#b3006b; padding:12px; text-align:center; }
+nav a { color:white; margin:0 20px; font-weight:bold; text-decoration:none; }
+.container { width:85%; margin:30px auto; max-width:900px; }
+.card { background:white; padding:25px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.15); margin-bottom:20px; }
+table { width:100%; border-collapse:collapse; }
+th,td { padding:12px; border:1px solid #ccc; }
+th { background:#ff4fa8; color:white; }
+a { color:#b3006b; font-weight:bold; text-decoration:none; }
